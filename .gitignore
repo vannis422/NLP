@@ -1,0 +1,19 @@
+忽略虛擬環境
+.venv/
+venv/
+env/
+忽略 Python 編譯快取
+pycache/
+*.pyc
+*.pyo
+*.pyd
+忽略模型檔與暫存檔
+.pth
+*.pt
+*.ckpt
+*.log
+VS Code 設定
+.vscode/
+系統垃圾檔
+.DS_Store
+Thumbs.db
